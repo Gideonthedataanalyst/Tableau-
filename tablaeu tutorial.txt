@@ -1,0 +1,19 @@
+get the data, load the tableau public, go to text file, load the csv file.
+notice that it starts to categorize below.
+go to worksheet.
+press show me , dimensuions are at the table.numerical is below tables usually.
+drag the global sales to rows on screen, or to column, or drop it at the centre to assign itself on show me.it will be shown in marks.
+global sales to rows, year to column.add genre to columns with year. or add to rows with global sales.
+add genre to marks then to maintain line graphs.on genre pick colour, legend is displayed on show me tab.
+drag another genre and add label on the marks tab.it will display labels. drag on selected areas. 
+label on line ends, min and max. etc. 
+
+
+go to filters.drag and drop platform to filters. check all of them , click ok. then click to show filter. you can uncheck some of the filters for specific sales.
+
+add to a dashboard,go down there and add a new worksheet. pick genre to columns , global sales to rows. you can sort from acsending or descending order.add genre to marks tab, pick colours, 
+
+then go to new dashboard.down there. go to size, click automatic.
+
+to addd bins, right click on year, then create then bins. click ok. drag the bins to columns.remove the other feature in column. exclue the nulls.
+RIGHT CLICK ON GLOBAL SALES, CREATE , CALCULATED FIELDS( Global sales - eu sales), add the calculated fields to rows .
